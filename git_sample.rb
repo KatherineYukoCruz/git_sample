@@ -9,3 +9,10 @@ i'm sooo sleepy
 but i need to study
 
 TEXT
+
+
+users = ["saitou", "taira", "yamada", "hayashi"]
+
+users.each do |user|
+  puts user
+end
